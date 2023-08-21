@@ -38,3 +38,10 @@ h1{
 	padding-top:10px;
 	margin:20px
 }
+.size-1{
+	font-size:9px;
+	text-align:right;
+/* 	padding:100px;/; */
+/* 	padding-top:5px; */
+/* 	text-align:bottom; */
+}
